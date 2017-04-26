@@ -18,3 +18,6 @@
 
 ### HW3
 Url for HW3 repository: https://github.com/cassiesouza/CSCI4830-helloworld
+
+### HW4
+Same repo as HW3, added necessary items for CI implementation https://github.com/cassiesouza/CSCI4830-helloworld/
